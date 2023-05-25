@@ -1,0 +1,88 @@
+.row{
+    padding:16px 0px ;
+  }
+  .colPadding{
+    padding: 8px 0px 0px 0px;
+  }
+  .flagSize{
+     font-size: 100px;
+  }
+  .colFlagPadding{
+    padding: 50px 0px 0px 0px;
+  }
+  .colStarPadding{
+    padding: 20px 0px 0px 0px;
+  }
+  .colHeartPadding{
+    padding: 10px 0px 0px 0px;
+  }
+  .hrSpecs{
+    border-width: 1px;
+    width: 100%;
+    border-color: #22264b;
+  }
+  footer{
+    height: 100px;
+  }
+  footer hr{
+    border-width: 5px;
+    border-color: #22264b;
+  }
+  .aboutSpecs{
+    padding:100px 10px;
+    background-color: rgb(30, 122, 184);
+    color:antiquewhite;
+  }
+  .aboutLogoSpecs{
+    color: #b56969;
+  }
+  .portfolioSpecs{
+    padding:100px 10px;
+    background-color: lightblue;
+    color: #22264b;
+  }
+  .contactSpecs{
+    padding:100px ;
+    background-color:#f2eeb3;
+    color: #22264b;
+  }
+  div h5{
+    padding: 0px 15px 0px 0px;
+    font-weight: 600;
+  }
+  .footerSpecs{
+    background-color: #f2b632;
+  }
+  .bodyBackground{
+    background-color: #fff;
+  }
+  div p{
+    padding: 0px 15px 0px 0px;
+  }
+  .navbar {
+      margin-bottom: 0;
+      background-color: #22264b !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 12px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #22264b !important;
+      background-color: #fff !important;
+  }
+  
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+  .floatClass{
+    float:left;
+    margin: 0px 10px 0px 0px;
+  }
