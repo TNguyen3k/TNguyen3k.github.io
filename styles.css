@@ -90,3 +90,6 @@
   .about {
     align-items: center;
   }
+  .col-sm-8 col-xs-12 {
+    align-items: center;
+  }
